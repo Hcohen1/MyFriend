@@ -1,0 +1,2 @@
+# MyFriend
+A platform which will be dedicated to connect between people which need help to people who need help. The platform will also create a social profile for the volunteers. The platform will use Artificial Intelligence to send efficiently help requests to potential helpers - accrding to age, profession, availablity times, if you have a car etc. ** This platform was declared as a 'genius idea' by a man who was one of the founders of an Israeli website called Yad2(similar concept to Ebay), it was sold recently for ~250M$
